@@ -19,10 +19,11 @@ I hold graduate certificates from Conestoga College in Cybersecurity Response Pl
 
 ## Skills from coursework and labs
 
-- **SIEM / monitoring:** Microsoft Sentinel, Splunk, Wazuh, EDR concepts
-- **Networking:** TCP/IP, DNS, DHCP, VPNs, pfSense, Wireshark, Nmap
+- **SIEM / monitoring:** Microsoft Sentinel (additional learning — not a completed Conestoga course project), Splunk, Wazuh, EDR concepts
+- **Networking:** TCP/IP, DNS, DHCP, VPNs, pfSense, Wireshark, Nmap, Cisco Packet Tracer, fping, nbtscan, SSH, UFW
 - **Systems:** Windows, Linux, Active Directory fundamentals
-- **Security practice:** Incident response, MITRE ATT&CK, threat analysis, Burp Suite fundamentals
+- **Vulnerability assessment:** Nessus, Metasploit, Metasploitable 2, DVWA, Burp Suite, SQLMap, Kali Linux
+- **Security practice:** Incident response, MITRE ATT&CK, threat analysis, Burp Suite fundamentals, OpenSSL, CrypTool
 - **Programming:** Python, PowerShell fundamentals
 
 ## Currently building
